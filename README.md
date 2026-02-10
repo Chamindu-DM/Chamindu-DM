@@ -99,19 +99,6 @@ const chamindu = {
 
 <br/>
 
-## Education & Certifications
-
- **B.Sc.Eng. in Computer Engineering** · University of Ruhuna  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2023 – Present_
-
- **Machine Learning Specialization** · Coursera (Stanford & DeepLearning.AI)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2025 – Present_
-
- **Google UX Design Professional Certificate** · Coursera  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2022 – 2023_
-
-<br/>
-
 ## Achievements
 
 ### [1st Runners Up — Tech-Triathlon 2025](https://tech-triathlon.rootcode.io/teams/2025/Inception)
