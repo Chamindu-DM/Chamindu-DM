@@ -1,96 +1,159 @@
-<!-- Modern Minimalistic GitHub Profile README -->
-
 <div align="center">
 
-# Chamindu Dissanayake
+# 👋 Hi, I'm Chamindu Dissanayake
 
-**Software Engineer · DevOps Enthusiast · B.Sc.Eng. Undergraduate**
+### Software Engineer · DevOps Enthusiast · Computer Engineering Student
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamindudissanayake/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chamindu-DM)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/chamindu_dissanayake)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chamindudissanayake@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chamindudissanayake/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Chamindu-DM">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://dribbble.com/chamindu_dissanayake">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  </a>
+  <a href="mailto:chamindudissanayake@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
----
+<br/>
 
-### About Me
+## About Me
 
-Computer Engineering undergraduate at the **University of Ruhuna**, passionate about building scalable software systems and automating infrastructure. I enjoy working across the full stack — from crafting clean UIs to designing CI/CD pipelines and containerized deployments.
+Computer Engineering undergraduate at the **University of Ruhuna** with a passion for building **scalable software systems** and **automating infrastructure**. I thrive at the intersection of development and operations, crafting everything from elegant user interfaces to robust CI/CD pipelines.
 
-🔍 **Currently seeking internship opportunities in Software Engineering / DevOps.**
+```typescript
+const chamindu = {
+    location: "Sri Lanka 🇱🇰",
+    education: "B.Sc.Eng. in Computer Engineering",
+    interests: ["Full-Stack Development", "DevOps", "Cloud Architecture", "UI/UX Design"],
+    currentFocus: "Building production-ready applications with modern tech stacks",
+    lookingFor: "Software Engineering / DevOps Internship Opportunities"
+};
+```
 
----
+<br/>
 
-### Tech Stack
+## Tech Arsenal
 
-**Languages**&ensp; `Python` · `Java` · `C/C++` · `Dart` · `TypeScript` · `JavaScript`
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Frontend**&ensp; `React` · `Next.js` · `Tailwind CSS` · `HTML5` · `CSS3`
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Backend**&ensp; `Node.js` · `Express.js` · `Spring Boot` · `FastAPI`
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Databases**&ensp; `PostgreSQL` · `MongoDB` · `Firebase` · `Supabase`
+</td>
+<td valign="top" width="50%">
 
-**Mobile**&ensp; `Flutter` · `React Native`
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**DevOps & Cloud**&ensp; `Docker` · `AWS` · `Jenkins` · `Terraform` · `Git`
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
----
+</td>
+</tr>
+</table>
 
-### Featured Projects
+<br/>
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[GovPulse](https://github.com/Chamindu-DM)** | Intelligent government issue management platform with AI-powered prioritization, multilingual chatbot, and 7 containerized microservices | React 19, TypeScript, Node.js, Python, FastAPI, PostgreSQL, Docker |
-| **[Servio](https://github.com/Chamindu-DM)** | Enterprise vehicle maintenance & reservation system with real-time tracking and microservices architecture | Java, Spring Boot, React, TypeScript, PostgreSQL, Docker |
-| **[Aloka](https://github.com/Chamindu-DM)** | Full-stack crowdfunding platform with transparent campaign tracking and real-time donation monitoring | React 19, TypeScript, Node.js, Express.js, PostgreSQL, Docker, AWS, Jenkins, Terraform |
-| **[Care for Elders](https://github.com/Chamindu-DM)** | Flutter mobile app for elderly healthcare management with Firebase backend | Dart, Flutter, Firebase, Provider, Hive |
-| **[Aura](https://github.com/Chamindu-DM)** | Multi-vendor salon & appointment booking platform | React, Node.js, Express, MongoDB, JWT |
-| **[OREPA](https://github.com/Chamindu-DM)** | Professional networking platform for engineering alumni with LMS and mentorship features | Next.js, TypeScript, Node.js, Supabase |
+## Professional Experience
 
----
+### Freelance Web Developer
+**Upwork** · _Mar 2023 – Dec 2025_
 
-### Experience
+- Delivered **responsive web applications** for international clients using React, Node.js, and modern CSS frameworks
+- Designed **wireframes and high-fidelity prototypes** in Figma, ensuring pixel-perfect implementation
+- Maintained **98% client satisfaction** through clear communication and iterative development
 
-**Freelance Web Developer** · Upwork&emsp;`Mar 2023 – Dec 2025`
-> Built responsive web applications for multiple clients using React, Node.js, and modern CSS. Designed wireframes and high-fidelity prototypes in Figma.
+### UX Design Intern
+**Amplifyn Pvt. Ltd** · _Jun 2023 – Sep 2023_
 
-**Intern UX Designer** · Amplifyn Pvt. Ltd&emsp;`Jun 2023 – Sep 2023`
-> Designed and prototyped interfaces for an EdTech SaaS product. Maintained design systems and collaborated with cross-functional teams.
+- Designed and prototyped interfaces for an **EdTech SaaS product** serving 1000+ users
+- Established and maintained **design system components** to ensure consistency across platforms
+- Collaborated with cross-functional teams using Agile methodologies
 
----
+<br/>
 
-### Education
+## Education & Certifications
 
-🎓 **B.Sc.Eng. in Computer Engineering** · University of Ruhuna&emsp;`2023 – Present`
+ **B.Sc.Eng. in Computer Engineering** · University of Ruhuna  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2023 – Present_
 
-📜 **Machine Learning Specialization** · Coursera&emsp;`2025 – Present`
+ **Machine Learning Specialization** · Coursera (Stanford & DeepLearning.AI)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2025 – Present_
 
-📜 **Google UX Design Certificate** · Coursera&emsp;`2022 – 2023`
+ **Google UX Design Professional Certificate** · Coursera  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2022 – 2023_
 
----
+<br/>
 
-### Achievements
+## Achievements
 
-🏆 **1st Runners Up** — Tech-Triathlon 2025 by Rootcode
-> Built a full-stack government issue management system with AI prioritization using LangGraph, OpenAI GPT-4, and Google A2A Protocol.
+### [1st Runners Up — Tech-Triathlon 2025](https://tech-triathlon.rootcode.io/teams/2025/Inception)
+**Organized by Rootcode**
 
-🏅 **Finalist (9th / 165 teams)** — IX 24 UI/UX Designathon by IEEE IIT
-> Designed a VR museum app for Apple Vision Pro and an eco-friendly transport solution.
+Built a full-stack **AI-powered government issue management system** featuring:
+- Intelligent issue prioritization using **LangGraph** and **OpenAI GPT-4**
+- Integration with **Google A2A Protocol** for cross-platform compatibility
+- Real-time analytics dashboard for administrative insights
 
----
+### Top 10 Finalist — IX 24 UI/UX Designathon
+**Organized by IEEE IIT Student Branch** · _9th out of 165 teams_
 
-### GitHub Stats
+- Designed an immersive **VR museum experience** for Apple Vision Pro
+- Created an **eco-friendly transport solution** promoting sustainable urban mobility
+
+<br/>
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chamindu-DM&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamindu-DM&theme=default&hide_border=true" alt="GitHub Streak" height="160"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chamindu-DM&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamindu-DM&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamindu-DM&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
-  <sub>Open to internship opportunities — let's connect and build something great together.</sub>
+
+### 💬 Let's Connect!
+
+I'm actively seeking **internship opportunities** in Software Engineering and DevOps.  
+Open to collaborating on innovative projects and contributing to impactful solutions.
+
+**📧 [chamindudissanayake@gmail.com](mailto:chamindudissanayake@gmail.com)**
+
+<sub>⭐️ From [Chamindu-DM](https://github.com/Chamindu-DM) | Last updated: February 2026</sub>
+
 </div>
