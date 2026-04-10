@@ -25,7 +25,7 @@
 
 ## About Me
 
-Computer Engineering undergraduate at the **University of Ruhuna** with a passion for building **scalable software systems** and **automating infrastructure**. I thrive at the intersection of development and operations, crafting everything from elegant user interfaces to robust CI/CD pipelines.
+I'm a Computer Engineering student who loves building full-stack applications and automating cloud infrastructure. Whether I am designing an intuitive UI in Figma, writing backend logic in Java Spring Boot, or configuring a CI/CD pipeline for a Linux VPS, I love being involved in the entire software development lifecycle. Always learning, always building.
 
 ```typescript
 const chamindu = {
