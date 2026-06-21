@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Chamindu Dissanayake
 
-### Software Engineer · DevOps Enthusiast · Computer Engineering Student
+### Software Engineer · DevOps Enthusiast · Computer Engineering Undergraduate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chamindudissanayake/">
@@ -25,17 +25,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student who loves building full-stack applications and automating cloud infrastructure. Whether I am designing an intuitive UI in Figma, writing backend logic in Java Spring Boot, or configuring a CI/CD pipeline for a Linux VPS, I love being involved in the entire software development lifecycle. Always learning, always building.
-
-```typescript
-const chamindu = {
-    location: "Sri Lanka 🇱🇰",
-    education: "B.Sc.Eng. in Computer Engineering",
-    interests: ["Full-Stack Development", "DevOps", "Cloud Architecture", "UI/UX Design"],
-    currentFocus: "Building production-ready applications with modern tech stacks",
-    lookingFor: "Software Engineering / DevOps Internship Opportunities"
-};
-```
+I'm a Computer Engineering undergrad who loves building full-stack applications and automating cloud infrastructure. Whether I am designing an intuitive UI in Figma, writing backend logic in Java Spring Boot, or configuring a CI/CD pipeline for a Linux VPS, I love being involved in the entire software development lifecycle. Always learning, always building.
 
 <br/>
 
@@ -117,22 +107,7 @@ Built a full-stack **AI-powered government issue management system** featuring:
 
 <br/>
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chamindu-DM&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamindu-DM&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamindu-DM&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
----
-
-<div align="center">
+<div align="left">
 
 ### 💬 Let's Connect!
 
