@@ -116,6 +116,6 @@ Open to collaborating on innovative projects and contributing to impactful solut
 
 **📧 [chamindudissanayake@gmail.com](mailto:chamindudissanayake@gmail.com)**
 
-<sub>⭐️ From [Chamindu-DM](https://github.com/Chamindu-DM) | Last updated: February 2026</sub>
+<sub>Last updated: June 2026</sub>
 
 </div>
